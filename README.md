@@ -7,7 +7,3 @@ For this project I definied good quality climbs as:
 1. 3 or more stars on Mountain Project sorted by most popular first. 
 
 As Mountain Project only allows 1000 results per search to be downloaded, I append the top most popular 1000 climbs for each state to the .csv data file
-
-## count_distance_calculate.ipynb
-
-The `count_distance_calculate.ipynb` notebook is the main code file in this repository. It is responsible for calculating the distances between different rock climbing routes.
