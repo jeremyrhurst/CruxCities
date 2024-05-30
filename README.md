@@ -17,7 +17,7 @@ As Mountain Project only allows 1000 results per search to be downloaded, I appe
 
 I created a Google MyMaps to interact with the data. This already seems fairly useful in comparison to using the Mountain Project map tool.
 
-[Interactive Google MyMaps link with downloaded data](https://www.google.com/maps/d/u/0/edit?mid=1NHlL4-prrwB-lj2idpbetLZ-B0ljI2s&usp=sharing)
+[![Map](map_data.png)](https://www.google.com/maps/d/u/0/edit?mid=1NHlL4-prrwB-lj2idpbetLZ-B0ljI2s&usp=sharing)
 
 ## Results
 
