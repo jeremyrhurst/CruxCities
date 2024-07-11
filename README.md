@@ -123,7 +123,7 @@ Looking at this map I was suprised to see so many dots within the city. After lo
 |  8.7                 | 435             | 5/5                    | 4/5           |
 Overall weighted score: 87 / 100
 
-[![Map](pictures/slc.png)](https://www.google.com/maps/d/u/0/edit?mid=1-ueyKpZ82WNmPRCWwB2APAD29sOxdXU&usp=sharing)
+[![Map](pictures/slc.png)](https://www.google.com/maps/d/u/0/edit?mid=1pAfzmOKYGYcoSPRiXKYwhgsLgzX8Yh0&usp=sharing)
 
 ## 3: Vancouver, British Columbia
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
