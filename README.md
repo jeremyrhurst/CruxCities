@@ -4,10 +4,12 @@
 My experience living in San Carlos de Bariloche for two months has made me appreciate locations where climbing day trips are possible. As part of my own exploration of where is best for a climber to live, I was curious to find a way to determine how many good quality climbs are within day-trip distance to each city.
 
 For this project, I defined good quality climbs as:
-1. Routes rated between 5.8 and 5.11c
-2. Routes with 3 or more stars on Mountain Project
+1. Routes rated between 5.7 and 5.11c
+2. Routes with 3 or more stars out of 4 on Mountain Project
 
 Bariloche has 223 good quality routes nearby, so I'm looking for cities that at least match that. The furthest I traveled for a day climbing trip from Bariloche was Valle Encantado, which was 30 miles as the bird flies, so I set that as the distance that qualifies as day-trippable.
+
+I then downloaded tick rate per month data from mountain project and used it to estimate how much of the year one can expect to climb at that location. After combining these two factors with the quality of the rock climbing gyms and my own perception of how epic the nearby nature I end up with a ranked list of what I believe are the best cities for a nature loving rock climber like myself to live in.
 
 ## Data
 
@@ -35,9 +37,9 @@ Example:
 var dataClimbSeason = [["January",403],["February",460],["March",993],["April",1074],["May",1228],["June",1113],["July",1031],["August",1152],["September",1294],["October",887],["November",627],["December",283]];
 ```
 
-I wanted to turn this data into a score 0-12 for how many total months in the year you can expect to find climbing weather. One problem I had is some places like Squamish have a large spike during July and August which would make dwarf all other months. Reading online you can expect to find climbing weather between April and September so I needed to find a process which would match somewhat with climber observations. After trying a variety of methods what I think works best is taking the average of the minimum and the maximum value in the set. Then resetting any month with a higher count than the average to that average value. Afterwards when all of the tourist spikes have been leveled out, sum all the data then devide that sum by the average to get the final score.
+I wanted to turn this data into a score 0-12 for how many total months in the year you can expect to find climbing weather. One problem I had is some places like Squamish have a large spike during July and August which would dwarf all other months and result with a score of 2 or 3 out of 12. Reading online you can expect to find climbing weather between April and September so I needed to find a process which would match somewhat with climber observations. After trying a variety of methods, what I think works best is to take the average of the minimum and the maximum value in the set. Then resetting any month with a higher count than the average to that average value. Afterwards when all of the tourist spikes have been leveled out, sum all the data then devide that sum by the average to get the final score.
 
-I found and considered using [Zillow pleasant days article](https://www.zillow.com/research/pleasant-days-methodology-8513/) data. At first it seemed like a reasonable way to determine how much of the year you could climb, but then I saw that Boulder Colorado only had 44 good weather days in the year while the prime climbing season data from mountain project showed there was consistent climbing all year round. Since these disagreed too much I decided not to use this data.
+I found and also considered using [Zillow pleasant days article](https://www.zillow.com/research/pleasant-days-methodology-8513/) data. At first it seemed like a reasonable way to determine how much of the year you could climb, but then I saw that it claimed Boulder Colorado only had 44 good weather days in the year while the prime climbing season data from mountain project showed there was consistent climbing all year round. Since these disagreed too much I decided not to use this data.
 
 ## Results
 
@@ -94,12 +96,12 @@ I found and considered using [Zillow pleasant days article](https://www.zillow.c
 ### Which city is the best to live in and climb? (according to what I find most important)
 
 I wanted to combine these two factors along with a couple of my own subjective ratings for each of these cities:
-1. The quality of the rock climbing gyms in the city as I find that an important factor for climber happiness during bad weather days
+1. The quality of the rock climbing gyms in the city. I find that an important factor for climber happiness during bad weather days
 1. The epicness of the nearby nature and my own desire to explore the trails of the area
 
 I set a cap of 500 for the maximum number of routes because past that number I don't think it mattered for the score. As a climbing partner I had in El Dorado 'Patrick' who has been climbing around Boulder for 20 years told me "There is 7 lives worth of climbing to be done around here". Since Boulder scored 518 routes nearby, I figured 500 was more than enough to keep me busy for life.
 
-With these factors combined and weighted according to how important I feel each factor is I have the final results!
+With these factors combined and weighted according to how important I feel each factor is I have the final results!  Congrats Boulder Colorado!
 
 
 [![Spreadsheet](pictures/results.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHIDwmZtQuCRsU4heNrSIP2EiA8ZHBHr17Y0_yurjtV7tqy-1gChw12tgAukRZoOFU8bPz8iRCbiJR/pubhtml)
