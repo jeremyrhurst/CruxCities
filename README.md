@@ -19,7 +19,7 @@ For each rock climbing region I downloaded all routes between 5.7 and 5.11c that
 
 Here is a sample of the data mapped. This is not a complete set since Google MyMaps can only store up to 10,000 points of interest and there are more routes in this dataset than that.
 
-[![Map](map_data.png)](https://www.google.com/maps/d/u/0/edit?mid=1NHlL4-prrwB-lj2idpbetLZ-B0ljI2s&usp=sharing)
+[![Map](pictures/map_data.png)](https://www.google.com/maps/d/u/0/edit?mid=1NHlL4-prrwB-lj2idpbetLZ-B0ljI2s&usp=sharing)
 
 The image is a hotlink, feel free to browse the map data as you like.
 
