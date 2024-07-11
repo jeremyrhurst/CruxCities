@@ -5,9 +5,9 @@ My experience living in San Carlos de Bariloche for two months has made me appre
 
 For this project, I defined good quality climbs as:
 1. Routes rated between 5.7 and 5.11c
-2. Routes with 3 or more stars out of 4 on Mountain Project
+2. Routes with 3 or more stars out of 4 on [Mountain Project](https://www.mountainproject.com/)
 
-Bariloche has 223 good quality routes nearby, so I'm looking for cities that at least match that. The furthest I traveled for a day climbing trip from Bariloche was Valle Encantado, which was 30 miles as the bird flies, so I set that as the distance that qualifies as day-trippable.
+[Bariloche](https://www.google.com/maps/d/u/0/edit?mid=17kZugf5Q51gzK-ESIg7yvpMG5pr8CPU&usp=sharing) has 223 good quality routes nearby, so I'm looking for cities that at least match that. The furthest I traveled for a day climbing trip from Bariloche was Valle Encantado, which was 30 miles as the bird flies, so I set that as the distance that qualifies as day-trippable.
 
 I then downloaded tick rate per month data from mountain project and used it to estimate how much of the year one can expect to climb at that location. After combining these two factors with the quality of the rock climbing gyms and my own perception of how epic the nearby nature I end up with a ranked list of what I believe are the best cities for a nature loving rock climber like myself to live in.
 
