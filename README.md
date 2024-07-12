@@ -149,7 +149,7 @@ Overall weighted score: 78 / 100
 
 [![Map](pictures/lasvegas.png)](https://www.google.com/maps/d/u/0/edit?mid=1Pv9w-62PklXpfx-5KcZuK-Xo4_WQfFo&usp=sharing)
 
-[![graph](lvg/squamishg.png)]
+[![graph](pictures/lvg.png)]
 
 ## 5: South Lake Tahoe, California
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
@@ -159,4 +159,4 @@ Overall weighted score: 76 / 100
 
 [![Map](pictures/slt.png)](https://www.google.com/maps/d/u/0/edit?mid=1ic1O0xherC7dsNRM5R757fkKYPPh6rM&usp=sharing)
 
-[![graph](lvg/sltg.png)]
+[![graph](pictures/sltg.png)]
