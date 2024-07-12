@@ -117,6 +117,8 @@ Overall weighted score: 93 / 100
 
 Looking at this map I was suprised to see so many dots within the city. After looking further I got a good laugh! Climbers in Boulder are one of a kind.
 
+[![graph](pictures/eldog.png)]
+
 ## 2:  Salt Lake City Utah
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
 |----------------------|-----------------|------------------------|---------------|
@@ -124,6 +126,8 @@ Looking at this map I was suprised to see so many dots within the city. After lo
 Overall weighted score: 87 / 100
 
 [![Map](pictures/slc.png)](https://www.google.com/maps/d/u/0/edit?mid=1pAfzmOKYGYcoSPRiXKYwhgsLgzX8Yh0&usp=sharing)
+
+[![graph](pictures/wasatchg.png)]
 
 ## 3: Vancouver, British Columbia
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
@@ -133,6 +137,8 @@ Overall weighted score: 84 / 100
 
 [![Map](pictures/vancouver.png)](https://www.google.com/maps/d/u/0/edit?mid=1MeQbsqzK7zQ7kM-x70ylpq_uRf2mk-4&usp=sharing)
 
+[![graph](pictures/squamishg.png)]
+
 ## 4: Las Vegas, Nevada
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
 |----------------------|-----------------|------------------------|---------------|
@@ -141,6 +147,8 @@ Overall weighted score: 78 / 100
 
 [![Map](pictures/lasvegas.png)](https://www.google.com/maps/d/u/0/edit?mid=1Pv9w-62PklXpfx-5KcZuK-Xo4_WQfFo&usp=sharing)
 
+[![graph](lvg/squamishg.png)]
+
 ## 5: South Lake Tahoe, California
 | Prime climbing months | Number of Routes | Rock climbing gym score | Nearby Nature |
 |----------------------|-----------------|------------------------|---------------|
@@ -148,3 +156,5 @@ Overall weighted score: 78 / 100
 Overall weighted score: 76 / 100
 
 [![Map](pictures/slt.png)](https://www.google.com/maps/d/u/0/edit?mid=1ic1O0xherC7dsNRM5R757fkKYPPh6rM&usp=sharing)
+
+[![graph](lvg/sltg.png)]
