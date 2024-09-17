@@ -1,4 +1,4 @@
-# Rock Climbing City Analysis
+# CruxCities: Rock Climbing City Analysis
 
 ## Premise
 My experience living in San Carlos de Bariloche for two months has made me appreciate locations where climbing day trips are possible. As part of my own exploration of where is best for a climber to live, I was curious to find a way to determine how many good quality climbs are within day-trip distance to each city.
